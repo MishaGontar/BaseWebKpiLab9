@@ -17,4 +17,4 @@ if(isset($_POST["submit"]) && !empty($_FILES["file"]["name"])){
         }
     }
 }
-header('Location:test.html');
+header('Location:index.html');
